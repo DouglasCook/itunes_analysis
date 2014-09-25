@@ -1,2 +1,4 @@
 *.swp
-libraryData.xml
+*.xml
+*.db
+*.p
